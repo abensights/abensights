@@ -1,0 +1,6 @@
+{
+  "name": "Bespoke Portfolio",
+  "description": "A high-end, responsive professional portfolio with light/dark mode, inspired by top designers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
