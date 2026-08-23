@@ -12,7 +12,7 @@ const experienceData: Record<string, ExperienceItem[]> = {
   "Product Manager": [
     {
       role: "Product Manager",
-      company: "Ayo Tech Solutions",
+      company: "AYOtech Solutions",
       period: "2023 – Present",
       description: "Drove end-to-end product strategy and delivery for custom web and mobile apps, streamlining feature scoping and improving development velocity."
     },
@@ -26,7 +26,7 @@ const experienceData: Record<string, ExperienceItem[]> = {
   "UX/UI Designer": [
     {
       role: "Senior UX/UI Designer",
-      company: "Ayo Tech Solutions",
+      company: "AYOtech Solutions",
       period: "2023 – Present",
       description: "Meticulously crafted interactive user interfaces and high-fidelity prototypes, setting design standards and conducting in-depth usability research."
     },
@@ -58,15 +58,15 @@ const experienceData: Record<string, ExperienceItem[]> = {
     },
     {
       role: "Business Analyst",
-      company: "Ayo Tech Solutions",
+      company: "AYOtech Solutions",
       period: "2023 – Present",
       description: "Conducted comprehensive market research and business process modeling to optimize software delivery pathways and maximize project ROI."
     },
     {
-      role: "Associate Business Analyst",
+      role: "Product Analyst",
       company: "Bank of Abyssinia",
-      period: "2023 – 2025",
-      description: "Analyzed complex financial systems and compiled detailed system integration specifications to bridge business and engineering capabilities."
+      period: "2022 – 2023",
+      description: "Analyzed product metrics, evaluated feature usage patterns, and supported functional testing to optimize digital product experiences."
     }
   ]
 };
