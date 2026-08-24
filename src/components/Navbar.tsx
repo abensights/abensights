@@ -19,7 +19,7 @@ export function Navbar() {
   const cvOptions = [
     { label: "UX/UI Designer", href: "https://drive.google.com/file/d/1rauUQ09dAv5pwqa1IwpjwDq8axrFESLW/view?usp=sharing" },
     { label: "Product Manager", href: "https://drive.google.com/file/d/1TIZl7IwlzikokmSIo6yHyLmE1sCQ0wlU/view?usp=sharing" },
-    { label: "Business Analyst", href: "https://drive.google.com/file/d/1xYK6dx4aqx3Q2G6iAz6X-eME6EGiveST/view?usp=sharing" },
+    { label: "Business Analyst", href: "https://drive.google.com/file/d/106zP_-ZNnOiTSFI4rnBQXJlkoNRiKz-h/view?usp=sharing" },
   ];
 
   useEffect(() => {

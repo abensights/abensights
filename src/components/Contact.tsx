@@ -21,7 +21,7 @@ export function Contact() {
     },
     { 
       name: "Book a call", 
-      href: "https://calendar.app.google/jXfVcHfKvwJ4ba736", 
+      href: "https://calendar.app.google/hXSWcf66BMP636ip9", 
       icon: <Calendar className="w-4 h-4" /> 
     },
   ];
