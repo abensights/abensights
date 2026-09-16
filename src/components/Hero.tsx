@@ -40,7 +40,7 @@ export function Hero() {
                 </div>
                 <span className="text-[10px] font-extrabold uppercase tracking-widest text-foreground font-subheader">Available for work</span>
               </div>
-              <p className="text-[9px] font-semibold text-zinc-400 dark:text-white/50 uppercase tracking-widest pl-4.5 font-subheader">Currently accepting freelance and full-time roles starting Q3 2024</p>
+              <p className="text-[9px] font-semibold text-zinc-400 dark:text-white/50 uppercase tracking-widest pl-4.5 font-subheader">Currently accepting freelance and hybrid roles starting 2024</p>
             </div>
           </div>
         </motion.div>
