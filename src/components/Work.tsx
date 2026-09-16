@@ -7,8 +7,8 @@ import { ProjectModal, ProjectDetail, apolloProjectDetail, boaProjectDetail, nab
 import cribCrmVideo from "../assets/Video/crib-crm-demo-video-738x630 (1).mp4";
 import apolloVideo from "../assets/Video/apollo-demo-video-738x630 (1).mp4";
 import boaVideo from "../assets/Video/abyssinia-remit-demo-video-gold-738x630.mp4";
-import nablisVideo from "../assets/Video/nablis-admin-demo-video-738x630 (2).mp4";
-import ayotechVideo from "../assets/Video/ayotech-mahder-sacco-demo-video-738x630 (1).mp4";
+import nablisVideo from "../assets/Video/nablis-admin-demo-video-738x630 (3).mp4";
+import ayotechVideo from "../assets/Video/ayotech-mahder-sacco-demo-video-738x630 (2).mp4";
 
 interface Project {
   id: string;
