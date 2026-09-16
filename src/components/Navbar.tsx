@@ -17,9 +17,9 @@ export function Navbar() {
   const [showCVOptions, setShowCVOptions] = useState(false);
 
   const cvOptions = [
-    { label: "UX/UI Designer", href: "https://drive.google.com/file/d/1rauUQ09dAv5pwqa1IwpjwDq8axrFESLW/view?usp=sharing" },
-    { label: "Product Manager", href: "https://drive.google.com/file/d/1TIZl7IwlzikokmSIo6yHyLmE1sCQ0wlU/view?usp=sharing" },
-    { label: "Business Analyst", href: "https://drive.google.com/file/d/106zP_-ZNnOiTSFI4rnBQXJlkoNRiKz-h/view?usp=sharing" },
+    { label: "UX/UI Designer", href: "https://drive.google.com/file/d/1VQ3hegofUIg_dczYP6vhnsxxSQdcxa9W/view?usp=sharing" },
+    { label: "Product Manager", href: "https://drive.google.com/file/d/1Eqb3R_b7O5hJOIHKoDkabgYroWU6aRqC/view?usp=sharing" },
+    { label: "Business Analyst", href: "https://drive.google.com/file/d/1Ch1ROXmMP_f6DVYy41CEmm1PKHOfOWoI/view?usp=sharing" },
   ];
 
   useEffect(() => {
